@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
     <title>LAWC</title>
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/miestilo.css">
+    <link rel="stylesheet" href="assets/css/misestilo.css">
   </head>
   <header>
     <div class="container-fluid">
